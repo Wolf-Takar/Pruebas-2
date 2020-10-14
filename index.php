@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Esto esta editado desde otro usuario</p>
+    
 </body>
 </html>
