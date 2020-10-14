@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <p>Esto lo edite como colaborador</p>
 </body>
 </html>
